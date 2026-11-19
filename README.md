@@ -9,7 +9,7 @@
 
 <img src="assets/h_start.svg" width="100%" alt="Press start: about me">
 
-Hi, I'm Jason, a postdoctoral researcher, developer and data scientist. I build open datasets, evaluation pipelines and indices that measure how artificial intelligence is developed, governed and used around the world, and what it means for health and society. Most repositories here are replication packages that hold the data, the code and the outputs behind a paper or a research sprint.
+Hi, I'm Jason, a postdoctoral researcher, developer and data scientist. I build open datasets, evaluation pipelines and indices that measure how artificial intelligence (AI) is developed, governed and used around the world, and what it means for health and society. Most repositories here are replication packages that hold the data, the code and the outputs behind a paper or a research sprint.
 
 <img src="assets/h_world1.svg" width="100%" alt="World 1: AI safety and evaluation">
 
