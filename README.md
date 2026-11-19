@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Jason H. Researcher, developer, data scientist">
+  <img src="assets/banner.svg" width="100%" alt="Jason Hung, researcher, developer, data scientist">
 </p>
 
 <p align="center">
