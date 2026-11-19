@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Jason Hung, researcher, developer, data scientist">
+  <a href="https://jasonhungresume.com"><img src="assets/banner.svg" width="100%" alt="Jason Hung, researcher, developer, data scientist"></a>
 </p>
 
 <p align="center">
@@ -7,11 +7,11 @@
   <a href="https://github.com/newlivehung123123/GAID-Project"><img src="https://img.shields.io/badge/PROJECT-GAID-fcbc00?style=for-the-badge&labelColor=c84c0c" alt="GAID Project"></a>
 </p>
 
-<img src="assets/h_start.svg" width="100%" alt="Press start: about me">
+<a href="https://jasonhungresume.com"><img src="assets/h_start.svg" width="100%" alt="Press start: about me"></a>
 
 Hi, I'm Jason, a postdoctoral researcher, developer and data scientist. I build open datasets, evaluation pipelines and indices that measure how artificial intelligence (AI) is developed, governed and used around the world, and what it means for health and society. Most repositories here are replication packages that hold the data, the code and the outputs behind a paper or a research sprint.
 
-<img src="assets/h_world1.svg" width="100%" alt="World 1: AI safety and evaluation">
+<a href="https://jasonhungresume.com"><img src="assets/h_world1.svg" width="100%" alt="World 1: AI safety and evaluation"></a>
 
 | Level | Repository | What it is |
 |:---:|---|---|
@@ -22,7 +22,7 @@ Hi, I'm Jason, a postdoctoral researcher, developer and data scientist. I build 
 | 1-5 | [artificial_minds](https://github.com/newlivehung123123/artificial_minds) | Can a language model measure national laws, strategies and institutions on the moral status of AI systems? |
 | 1-6 | [ieee_ies_2026](https://github.com/newlivehung123123/ieee_ies_2026) | Benchmarking open-weight foundation models for global AI technical governance (IEEE IES Generative AI Challenge 2026) |
 
-<img src="assets/h_world2.svg" width="100%" alt="World 2: AI data and governance">
+<a href="https://jasonhungresume.com"><img src="assets/h_world2.svg" width="100%" alt="World 2: AI data and governance"></a>
 
 | Level | Repository | What it is |
 |:---:|---|---|
@@ -35,7 +35,7 @@ Hi, I'm Jason, a postdoctoral researcher, developer and data scientist. I build 
 | 2-7 | [awpri](https://github.com/newlivehung123123/awpri) | AI/ML Animal Welfare and Policy Risk Index prototype |
 | Bonus | [GrantGlobe_prototype](https://github.com/newlivehung123123/GrantGlobe_prototype) | An automated global search engine for research funding |
 
-<img src="assets/h_world3.svg" width="100%" alt="World 3: health and society">
+<a href="https://jasonhungresume.com"><img src="assets/h_world3.svg" width="100%" alt="World 3: health and society"></a>
 
 | Level | Repository | What it is |
 |:---:|---|---|
@@ -46,7 +46,7 @@ Hi, I'm Jason, a postdoctoral researcher, developer and data scientist. I build 
 | 3-5 | [racism_by_context](https://github.com/newlivehung123123/racism_by_context) | Structural inequalities in education for non-Han Chinese, CFPS 2010 to 2018 |
 | 3-6 | [gen_z](https://github.com/newlivehung123123/gen_z) | Does "Gen Z" hold together? Birth cohort and social position among young people |
 
-<img src="assets/h_powerups.svg" width="100%" alt="Power-ups">
+<a href="https://jasonhungresume.com"><img src="assets/h_powerups.svg" width="100%" alt="Power-ups"></a>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -59,4 +59,4 @@ Hi, I'm Jason, a postdoctoral researcher, developer and data scientist. I build 
   <img src="https://img.shields.io/badge/Open%20data-00a800?style=for-the-badge" alt="Open data">
 </p>
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting">
+<a href="https://jasonhungresume.com"><img src="assets/footer.svg" width="100%" alt="Thanks for visiting"></a>
